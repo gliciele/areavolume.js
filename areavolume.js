@@ -13,9 +13,9 @@ console.log("Saída")
 
 
 /*do {
-    console.log('');
-    console.log('Digite os valores');
-    console.log('');
+  //  console.log('');
+  //  console.log('Digite os valores');
+  //  console.log('');
 
 } while (Number(comp) == 0 || Number(larg) == 0 || Number(alt) == 0 */
 
