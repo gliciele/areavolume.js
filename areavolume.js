@@ -11,6 +11,14 @@ console.log("Saída")
 * node <nome do arquivo js>.js
 */
 
+
+/*do {
+    console.log('');
+    console.log('Digite os valores');
+    console.log('');
+
+} while (Number(comp) == 0 || Number(larg) == 0 || Number(alt) == 0 */
+
 const prompt = require ('prompt-sync')();
 
  var n1 = prompt ('Digite o n1: ');
